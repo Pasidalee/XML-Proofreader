@@ -34,6 +34,9 @@ def find_paragraphs(root: etree._Element) -> list[etree._Element]:
     for el in root.iter():
         if not isinstance(el.tag, str) or etree.QName(el).localname != "p":
             continue
+        if len(el):
+            logger.warning("Skipping <p> with child elements (line %s)", el.sourceline)
+            continue
         if el.text and el.text.strip():
             paragraphs.append(el)
     return paragraphs
