@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section orientation="portrait">
+    <section-number class="section">1.1</section-number>
+    <section-heading class="heading_1" id="po-heading-id_8zVhkRmG2UmRtdw-29DEnA">Proofread XML</section-heading>
+    <p id="id-1">For breakfast I like eggs<error type="punctuation" correction=", " reason="Items in a list are separated by commas."> </error>toast and<error type="punctuation" correction=", " reason="A comma goes before 'and' in a list of three or more items."> </error>juice.</p>
+    <p id="id-9">The <error type="spelling" correction="company's" reason="The possessive form of 'company' is 'company's'.">companys</error> employees work hard but <error type="spelling" correction="they're" reason="'Their' is possessive; 'they're' is the contraction for 'they are'.">their</error> unhappy.</p>
+    <p id="id-14">They always eat dinner together at home.</p>
+    <p><error type="capitalization" correction="Sarah" reason="Proper nouns, such as names, are capitalized.">sarah</error> lives in <error type="capitalization" correction="Paris, France." reason="Place names are capitalized, and a city is separated from its country by a comma.">paris france?</error> She <error type="grammar" correction="enjoys" reason="The verb should agree with the singular subject 'She'.">enjoy</error> <error type="capitalization" correction="French" reason="Proper adjectives, such as those derived from country names, are capitalized.">french</error> food.</p>
+    <p id="id-20"><error type="capitalization" correction="I" reason="The pronoun 'I' is always capitalized.">i</error> visited <error type="capitalization" correction="London" reason="Place names are capitalized.">london</error> last summer and <error type="capitalization" correction="I" reason="The pronoun 'I' is always capitalized.">i</error> loved the museums<error type="punctuation" correction=", " reason="Items in a list are separated by commas."> </error>the galleries and<error type="punctuation" correction=", " reason="A comma goes before 'and' in a list of three or more items."> </error>the food.</p>
+</section>
