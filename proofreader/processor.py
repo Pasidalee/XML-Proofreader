@@ -10,6 +10,7 @@ logger = logging.getLogger(__name__)
 
 MAX_WORKERS = 8
 
+
 class ProofreadError(Exception):
     """The run could not produce a useful result."""
 
