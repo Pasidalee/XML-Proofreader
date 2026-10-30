@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section orientation="portrait">
+    <section-heading class="heading_1" id="fr-1">Relecture XML</section-heading>
+    <p id="fr-a">je suis allé a paris lundi dernier?</p>
+    <p id="fr-b">Marie et sophie sont allé au marché et elles ont acheté des pomme.</p>
+    <p id="fr-c">Nous avons visité le musée le Mardi, c'etait tres interessant.</p>
+    <p id="fr-d">J'aime la cuisine Française et les vins Italiens.</p>
+    <p id="fr-e">Le rapport a été publié vendredi et le conseil a approuvé le plan.</p>
+</section>
